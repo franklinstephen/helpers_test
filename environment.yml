@@ -1,0 +1,12 @@
+name: interview-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - openjdk=17
+  - pyspark=3.5.1
+  - numpy
+  - pandas
+  - jupyterlab
+  - notebook
+  - pip
